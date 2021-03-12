@@ -1,4 +1,4 @@
-# flutter_food_app_ui
+# Food Menu UI
 
 A new Flutter project.
 
